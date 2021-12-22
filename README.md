@@ -1,4 +1,4 @@
-# Scene Bag detection, a new dataset and an new method
+# Exploring Complex Scene Bag Detection with A New Dataset and A New Method
 ![demo](img/demo.jpg)
 
 ## Introduction
@@ -37,7 +37,7 @@ Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67
 
 ### Prerequisites
 We implemented CBDet using MMDetection and  Pytorch.
-- The project lists the code for CBDet, and the rest of the base code is in [MMDetection](https://mmdetection.readthedocs.io/en/latest/)  
+- The project lists the code for CBDet, and the rest of the base code is in [MMDetection](https://github.com/open-mmlab/mmdetection.git)  
 
 
 |   -             | Require         | Ours   |
