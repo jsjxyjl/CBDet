@@ -28,7 +28,7 @@ Examples of the collected Bag6k dataset. It spans various challenges of fixed mo
 链接：https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg 
  
 
-Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg) [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
+Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg) and [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
 
 - The extraction code is `bagd`
 
@@ -57,8 +57,8 @@ We implemented CBDet using MMDetection and  Pytorch.
 
 ### CBDet
 
-|    Method     | box AP | Config   | Download |
-| :-------------: | :----: |:------:|:--------:|
+|    Method     | box AP | Config   |
+| :-------------: | :----: |:------:|
 |    Retinanet    | 0.254  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/retinanet/retinanet_r50_fpn_1x_coco.py) | 
 |    YOLO v3      | 0.278  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/yolo/yolov3_d53_320_273e_coco.py) | 
 |    FCOS         | 0.340  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/fcos/fcos_r50_caffe_fpn_gn-head_1x_coco.py) | 
@@ -71,13 +71,13 @@ We implemented CBDet using MMDetection and  Pytorch.
 
 ### Ablation study
 
-|    Method     | box AP | Config | Download |
-| :-------------: | :----: |:------:|:--------:| 
+|    Method     | box AP | Config |
+| :-------------: | :----: |:------:|
 |   CBDet+AAS-RPN       |0.359   | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_aasrpn.py) |
 |   CBDet+AAS-RPN+T-Attention   |0.364   | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_aasrpn_t-attention.py) | 
 |   CBDet+AAS-RPN+DCN       |0.371   | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_aasrpn_dcn.py) | 
 |   CBDet+T-Attention+DCN |0.372   | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_t-attention_dcn.py) |
 |   CBDet+AAS-RPN+T-Attention+DCN      | 0.375  | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_aasrpn_t-attention_dcn.py) |
 
-models are available on the [Baidu](https://pan.baidu.com/s/1LkGscZm17qUp3vsho06B7A ) [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
+models are available on the [Baidu](https://pan.baidu.com/s/1LkGscZm17qUp3vsho06B7A ) and [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
 - - The extraction code is `bagd`
