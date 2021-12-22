@@ -62,7 +62,7 @@ We implemented CBDet using MMDetection and  Pytorch.
 |    Retinanet    | 0.254  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/retinanet/retinanet_r50_fpn_1x_coco.py) | 
 |    YOLO v3      | 0.278  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/yolo/yolov3_d53_320_273e_coco.py) | 
 |    FCOS         | 0.340  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/fcos/fcos_r50_caffe_fpn_gn-head_1x_coco.py) | 
-|     Faster RCNN | 0.340  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py) |
+|     Faster RCNN | 0.347  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py) |
 |    Grid Rcnn    | 0.351  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/grid_rcnn/grid_rcnn_r50_fpn_gn-head_1x_coco.py) | 
 |   Cascade Rcnn  | 0.352  | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/cascade_rcnn/cascade_rcnn.py)  | 
 |    PAA          | 0.371  | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/paa/paa_r50_fpn_1x_coco.py) | 
