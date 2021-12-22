@@ -25,9 +25,7 @@ We finally determined 4 bag categories, and the labeling rules are as follows:
 Examples of the collected Bag6k dataset. It spans various challenges of fixed monitoring shooting and handheld terminal shooting (shorted by FS and HS) in scene package detection. For instance, multiple scales (MS), uneven illumination (UI), similar texture (ST), partial mask (PM), blurring and deformation (BD), complex pose and background (CPB). The red region of the upper right corner describes the shooting mode and the challenges of text detection, (mode|challenges). Best viewed in  [img](https://github.com/jsjxyjl/CBDet/tree/main/img).
 ![demo](img/git-a.png)
 ![demo](img/git-b.png)
-链接：https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg 
  
-
 Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg) and [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
 
 - The extraction code is `bagd`
@@ -40,6 +38,8 @@ Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67
 ### Prerequisites
 We implemented CBDet using MMDetection and  Pytorch.
 - The project lists the code for CBDet, and the rest of the base code is in [MMDetection](https://mmdetection.readthedocs.io/en/latest/)  
+
+
 |   -             | Require         | Ours   |
 | :-------------: | :----:          |:------:|
 |    OS           | Linux or macOS  | ubantu |
@@ -47,8 +47,8 @@ We implemented CBDet using MMDetection and  Pytorch.
 | PyTorch         |1.3+             |  1.7.0  |
 | CUDA            |9.2+             |  11.1   |
 | GCC             |5+               |  7.5.0  |
-| [MMCV](https://mmcv.readthedocs.io/en/latest/#installation)            |-                |  1.2.4  |
-| [MMDetection](https://mmdetection.readthedocs.io/en/latest/)           |-                |  2.7    |
+| [MMCV](https://mmcv.readthedocs.io/en/latest/#installation)            | -                |  1.2.4  |
+| [MMDetection](https://mmdetection.readthedocs.io/en/latest/)           | -                |  2.7    |
 
 
 
