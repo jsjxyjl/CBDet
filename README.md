@@ -26,7 +26,7 @@ Examples of the collected Bag6k dataset. It spans various challenges of fixed mo
 ![demo](img/git-a.png)
 ![demo](img/git-b.png)
  
-Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg) and [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
+Datasets are available on the [Baidu](https://pan.baidu.com/s/1haikTU21CEcKGjH67cbCfg) and [Google Drive](https://drive.google.com/file/d/1NptjvTXS5hU2pA_25XNWY30h7qKIZ_iD/view?usp=sharing)
 
 - The extraction code is `bagd`
 
@@ -79,5 +79,5 @@ We implemented CBDet using MMDetection and  Pytorch.
 |   CBDet+T-Attention+DCN |0.372   | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_t-attention_dcn.py) |
 |   CBDet+AAS-RPN+T-Attention+DCN      | 0.375  | [config](https://github.com/jsjxyjl/CBDet/blob/main/configs/CBDet/cbdet_aasrpn_t-attention_dcn.py) |
 
-models are available on the [Baidu](https://pan.baidu.com/s/1LkGscZm17qUp3vsho06B7A ) and [Google Drive](https://pan.baidu.com/s/178WQ6mktkFs4OGo25_Txhw)
+models are available on the [Baidu](https://pan.baidu.com/s/1LkGscZm17qUp3vsho06B7A ) and [Google Drive](https://drive.google.com/file/d/1NlKeQBJbl4HQtX5ldO_PipfJMkcFMDYX/view?usp=sharing)
 - - The extraction code is `bagd`
